@@ -1,0 +1,8 @@
+When creating a template, I would like to have more options for display rules.
+Like "current URL" -> "contains"/ "does not contain"/ "exactly matches" etc
+
+Nowadays, we have around 40 pages, that should not contain the navbar or the footer. 
+I need to add them all manually, one by one, as they cannot be the "child" of any other page.
+They are not blog posts, so I cannot add a category to them.
+
+Thank you.
